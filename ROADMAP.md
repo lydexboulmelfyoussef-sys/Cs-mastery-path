@@ -1,13 +1,13 @@
 # Roadmap
 
-État d'avancement du parcours. Coché = fait et relu.
+État d'avancement du parcours. Coché = fait et relu par Youssef (pas juste rédigé).
 
-## Brique 0 — Setup
+## Brique 0 — Setup *(rédigée, en attente de relecture — blocage accès Colab mobile)*
 
 - [ ] 00_cours — histoire de Python, interpréteur/bytecode, CPython vs autres
 - [ ] 01_pratique — structure d'un repo (src/, lib/, requirements, .env, .gitignore, venv)
 
-## Brique 1 — Python de base
+## Brique 1 — Python de base *(rédigée, en attente de relecture)*
 
 - [ ] 00_cours — rappel des fonctions de base
 - [ ] 01_exercices_easy
