@@ -13,13 +13,17 @@
 - [ ] 01_exercices_easy
 - [ ] 02_exercices_medium
 
-## Brique 2 — Programmation orientée objet
+## Brique 2 — Programmation orientée objet *(point faible historique de Youssef, traitée en profondeur,
+  basée sur poly-2025-v1.pdf, poly-x2.pdf chapitre 15, et le diagnostic de sa tentative précédente)*
 
-- [ ] 00_cours
-- [ ] 01_exercices_easy
-- [ ] 02_exercices_medium
-- [ ] 03_exercices_hard
-- [ ] 04_projet — architecture complète
+- [ ] 01_pourquoi_poo — le problème que la POO résout, une seule classe simple
+- [ ] 02_encapsulation — visibilité, champs privés, propriétés
+- [ ] 03_composition — assembler des objets, avant l'héritage
+- [ ] 04_heritage_polymorphisme — construit proprement, composition vs héritage
+- [ ] 05_classes_abstraites_interfaces — ABC, abstractmethod (referme la confusion Kernel/Knn de sa tentative précédente)
+- [ ] 06_methodes_speciales — méthodes magiques, introduites en dernier, comme un confort
+- [ ] 07_modeliser_architecture — basé sur poly-x2.pdf ch.15 "Modélisation de l'information"
+- [ ] 08_projet — architecture multi-classes complète
 
 ## Brique 3 — Algorithmique (basé sur Algorithmique.md)
 
