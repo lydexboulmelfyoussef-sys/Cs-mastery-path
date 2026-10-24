@@ -17,7 +17,7 @@
   basée sur poly-2025-v1.pdf, poly-x2.pdf chapitre 15, et le diagnostic de sa tentative précédente)*
 
 - [ ] 01_pourquoi_poo — le problème que la POO résout, une seule classe simple
-- [ ] 02_encapsulation — visibilité, champs privés, propriétés
+- [ ] 02_encapsulation — visibilité, champs privés, propriétés *(rédigée : cours + 2 niveaux d'exercices)*
 - [ ] 03_composition — assembler des objets, avant l'héritage
 - [ ] 04_heritage_polymorphisme — construit proprement, composition vs héritage
 - [ ] 05_classes_abstraites_interfaces — ABC, abstractmethod (referme la confusion Kernel/Knn de sa tentative précédente)
